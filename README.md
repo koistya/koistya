@@ -15,4 +15,4 @@ I'm all about:
 - 🤖 Generative AI, ChatGPT, LLMs
 
 Join me on [Twitter](https://twitter.com/koistya), [Medium](https://medium.com/@koistya) or [Gumroad](https://koistya.gumroad.com/).
-Or, send me a message on [WhatsApp](https://w.app/@koistya) or [Telegram](https://t.me/koistya). 🚀
+Or, send me a message on [WhatsApp](https://w.app/koistya) or [Telegram](https://t.me/koistya). 🚀
