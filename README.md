@@ -4,6 +4,7 @@ I've got some free hours each week to offer [code mentoring](https://codementor.
 
 I'm all about:
 
+- 🤖 Generative AI, OpenAI, Vertex AI, xAI, LLMs
 - 🚀 Google Cloud Platform (GCP), Firebase, Cloudflare
 - 📊 Google Cloud SQL, Firestore, PostgreSQL, Redis
 - ⚙️ Google Cloud Workflows, Pub/Sub
@@ -12,7 +13,6 @@ I'm all about:
 - 🌀 Vite, Vitest, Jest, Puppeteer, Playwright
 - 📈 Google Analytics, Mixpanel, Plausible, Matomo
 - 🔧 GitHub Actions, Kubernetes (K8s), Docker, CI/CD
-- 🤖 Generative AI, ChatGPT, LLMs
 
 Join me on [Twitter](https://twitter.com/koistya), [Medium](https://medium.com/@koistya) or [Gumroad](https://koistya.gumroad.com/).
 Or, send me a message on [WhatsApp](https://wa.me/393661105790) or [Telegram](https://t.me/koistya). 🚀
