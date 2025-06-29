@@ -10,7 +10,7 @@ A veteran architect with two decades of war stories in scalable systems — and 
 - **Future-Proof Design:** Create fault-tolerant, auto-scaling architectures for mission-critical apps.  
 - **Multiplier Effect:** Share knowledge through mentoring, code reviews, and lunch-and-learns—so teams thrive.
 
-## Highlights from the Trenches &nbsp;📈
+### Highlights from the Trenches &nbsp;📈
 
 - **Smarter agent toolkit:** Spearheaded a principal-level overhaul of an AI-driven property evaluation and CRM platform, cutting agent prep time in half and boosting client conversion.  
 - **Real-time co-sell command center:** Oversaw the creation of an interactive B2B dashboard that aggregates pipeline metrics—empowering teams to close deals 30% faster.  
@@ -22,7 +22,7 @@ A veteran architect with two decades of war stories in scalable systems — and 
 - **Ping me on X:** [@koistya](https://x.com/koistya)  
 - **Shoot an email:** [hello@kriasoft.com](mailto:hello@kriasoft.com)
 
-## Toolbox &nbsp;🧰
+### Toolbox &nbsp;🧰
 
 GCP · DigitalOcean · Cloudflare · Terraform · Docker · Kubernetes · Firestore · PostgreSQL · Redis · Algolia · Pinecone · TypeScript · Python · Node.js · React · Next.js · tRPC · GraphQL · TanStack · Vite · GitHub Actions · Linear · GitHub Copilot · Copilot Labs · Gemini CLI · Claude Code · Vertex AI · Prometheus · Grafana · Sentry · Playwright
 
