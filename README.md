@@ -1,56 +1,90 @@
-### Hi, I'm Konstantin Tarkus
+<div align="center">
 
-Principal Software Engineer & Architect. I build AI-first MVPs and the boring-but-critical plumbing that keeps them alive in production — queues, webhooks, API gateways, and observability that doesn't wake you at 2am. Working from Porto San Giorgio, Italy since 2022; most mornings start with espresso and a paper notebook. [Let’s talk →](https://cal.com/koistya)
+# Hi, I'm Konstantin Tarkus
 
-### What I Do
+### Principal Software Engineer & OSS Architect
 
-- **SOLVE — AI-first systems and distributed tech:** Design and ship AI-first MVPs, RAG/agent pipelines with schemas and guardrails, real-time/event-driven systems, and untangle legacy APIs/data models so teams can stop tiptoeing around them
-- **OWN — End-to-end delivery:** Take scope → architecture → implementation → infra → observability, build API platforms and data contracts teams can ship against, ship weekly slices, favor simple/proven patterns, and use AI tools to compress delivery
-- **DE-RISK — Make it maintainable:** Align early, communicate often, document decisions (ADRs/RFCs), bake in CI/CD, IaC, and telemetry, and leave clean handoffs teams can maintain after I leave
+**I build AI-first systems and the boring-but-critical plumbing that keeps them alive.**
 
-### What Founders Get in the First 30–90 Days
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)](https://x.com/koistya)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koistya)
+[![Website](https://img.shields.io/badge/cal.com-Book_a_Call-black?style=flat&logo=google-calendar)](https://cal.com/koistya)
 
-- **Clarity & scope:** A clear problem brief, prioritized backlog, risk list, and success metrics we’re aligned on
-- **Architecture & plan:** A concise architecture doc and a realistic delivery plan the team can execute
-- **MVP in production:** A functional MVP live in 4–8 weeks — production-ready, observable, and ready for early users
-- **Ops & handoff:** CI/CD and preview environments in place, with ADRs and handoff docs so your team can move fast independently
+</div>
 
-### Testimonials
+---
 
-> "Konstantin is the steady technical hand every early-stage team hopes to find... avoids mountains of technical debt while keeping the team moving fast." — **Azad A.**, Head of Product
+### ⚡ The TL;DR
 
-> "His specialty is infrastructure and architectural design... always up to date on bleeding-edge tech." — **Kavin P.**, Founder & COO
+I specialize in **AI Infrastructure, Developer Experience (DX), and 0-to-1 Architecture**. I design systems that don't wake you up at 2am—resilient queues, clean API gateways, and observability that actually works.
 
-### Track Record
+Based in **Porto San Giorgio, Italy (CET)**.
+*Working remotely with US/UK teams since 2014. My mornings are your "while you were sleeping" deep work blocks.*
 
-- **AI-driven property platform:** Rebuilt evaluation + CRM flow; cut agent prep time in half and increased conversion by tightening data quality and alerts.
-- **Real-time co-sell dashboard:** Aggregated B2B pipelines and live partner signals; teams closed deals ~30% faster with shared visibility.
+---
 
-### Selected Open-Source Work
+### 📦 Open Source & Architecture
 
-- [**React Starter Kit**](https://github.com/kriasoft/react-starter-kit) — full-stack SaaS template used by hundreds of teams, cutting MVP build time by ~70%
-- [**WS-Kit**](https://github.com/kriasoft/ws-kit) — type-safe WebSocket RPC framework that ships real-time features faster and safer than hand-rolled sockets
-- [**SyncGuard**](https://github.com/kriasoft/syncguard) — type-safe real-time sync for multi-client apps without writing conflict logic
+I don't just use tools; I build the "paved roads" for other engineers.
 
-### How I Work
+| Project | Role | Impact |
+| :--- | :--- | :--- |
+| [**React Starter Kit**](https://github.com/kriasoft/react-starter-kit) | **Creator** | **23k+ Stars.** The standard-bearer for React boilerplates. Reduced setup time by ~70% for thousands of startups. |
+| [**WS-Kit**](https://github.com/kriasoft/ws-kit) | **Author** | Type-safe WebSocket RPC framework. Ships real-time features faster and safer than hand-rolled sockets. |
+| [**SyncGuard**](https://github.com/kriasoft/syncguard) | **Author** | Local-first synchronization for multi-client apps. Solves conflict logic so you don't have to. |
 
-- Prefer async communication (email/docs/tickets) over meetings; Linear beats Jira.
-- Thrive in small, focused teams (1–5 engineers) and remote setups.
-- Enjoy mentoring and code reviews; less excited about people management overhead.
-- Obsess over code quality, testing, maintainability, plus clear UX.
-- Early adopter who sticks to proven tools once they earn trust.
+---
 
-### Tech Stack & Expertise
+### 🛠 What I Do
 
-- **Domains:** Distributed and real-time systems; event-driven architecture; API platforms; RAG pipelines and AI agents; observability and reliability; infra automation
-- **Backend/infra:** TypeScript; Bun/Node.js; PostgreSQL; Redis; Cloudflare; GCP; Terraform; Docker; Cloud Run; GitHub Actions
-- **Frontend:** React; Next.js; Vite; TanStack; Tailwind; shadcn/ui
-- **AI:** Vertex AI; Gemini; Claude/Claude Code; LangChain/LlamaIndex; eval pipelines
+I help founders and engineering leaders untangle complexity and ship faster.
 
-### Work With Me
+* **SOLVE — AI-first MVPs & Distributed Systems**
+    Design and ship RAG/agent pipelines with proper guardrails. I untangle legacy APIs and data models so your team can stop tiptoeing around them.
 
-- **Book a session:** [https://cal.com/koistya](https://cal.com/koistya)
-- **Connect on LinkedIn:** [https://linkedin.com/in/koistya](https://linkedin.com/in/koistya)
-- **Ask a question:** open an issue or join [Discord](https://discord.gg/bSsv7XM)
+* **OWN — End-to-End Delivery**
+    Scope → Architecture → Implementation → Infra. I build API platforms and data contracts teams can ship against, favoring simple, proven patterns over hype.
 
-> Off the clock: VR table tennis, strong espresso, wandering Italy.
+* **DE-RISK — Make it Maintainable**
+    Align early, document decisions (ADRs/RFCs), and bake in CI/CD and telemetry. I leave behind clean handoffs that your team can maintain after I leave.
+
+---
+
+### 🚀 The "First 90 Days" Package
+
+**What founders get when they hire me as a Fractional Principal / Lead:**
+
+1.  **Clarity:** A clear problem brief, risk list, and prioritized backlog we align on immediately.
+2.  **Architecture:** A concise design doc and a realistic delivery plan.
+3.  **Production MVP:** A functional, observable system live in **4–8 weeks**.
+4.  **Handoff:** CI/CD pipelines, preview envs, and ADRs so your team can take the reins.
+
+---
+
+### 🏗 Tech Stack
+
+**Core:** `TypeScript` `Node.js` `Bun` `PostgreSQL` `Redis`
+**Cloud & Infra:** `GCP` `Cloudflare Workers` `Terraform` `Docker` `GitHub Actions`
+**AI & Data:** `Vertex AI` `Gemini` `Claude` `LangChain` `RAG Pipelines`
+**Frontend:** `React` `Next.js` `Vite` `Tailwind` `TanStack`
+
+---
+
+### 💬 Testimonials
+
+> "Konstantin is the steady technical hand every early-stage team hopes to find... avoids mountains of technical debt while keeping the team moving fast."
+> — **Azad A.**, Head of Product
+
+> "His specialty is infrastructure and architectural design... always up to date on bleeding-edge tech."
+> — **Kavin P.**, Founder & COO
+
+---
+
+<div align="center">
+
+### Ready to build?
+[**Schedule a generic chat**](https://cal.com/koistya) or [**Connect on LinkedIn**](https://linkedin.com/in/koistya)
+
+*Off the clock: VR table tennis, playing piano, strong espresso, wandering Italy.*
+
+</div>
